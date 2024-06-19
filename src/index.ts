@@ -79,8 +79,7 @@ async function sendFromMultipleSenders(
 }
 
 async function main() {
-  console.log("Solana Auto Sender");
-  console.log("Enter number to call function");
+  console.log("Sonic Auto Sender");
   console.log("1. Get Balance");
   console.log("2. Multisend");
 
